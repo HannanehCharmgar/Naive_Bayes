@@ -11,6 +11,6 @@
 | - [`Multinomial.py`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/SRC/Multinomial.py) |Multinomial Code |
 | 📁 [Explanation](https://github.com/HannanehCharmgar/Naive_Bayes/tree/main/Explanation) | Explanation folder |
 | - [`Algorithm.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Algorithm.md) | Algorithm explanation |
-| - [`Bernouli-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Bernouli-code.md) |Bernouli Code Ex |
-| - [`Gaussian-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Gaussian-code.md) |Gaussian Code Ex |
-| - [`Multinomial-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Multinomial-code.md) |Multinomial Code Ex |
+| - [`Bernouli-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Bernouli-code.md) |Explanation of Bernouli code |
+| - [`Gaussian-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Gaussian-code.md) |Explanation of Gaussian code |
+| - [`Multinomial-code.md`](https://github.com/HannanehCharmgar/Naive_Bayes/blob/main/Explanation/Multinomial-code.md) |Explanation of Multinomial code |
